@@ -1,0 +1,41 @@
+a=25
+b=20
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+a*=5
+print(a)
+a+=10
+print(a)
+a-=5
+print(a)
+a%=6
+print(a)
+a/=3
+print(a)
+a//=5
+print(a)
+a**=3
+print(a)
+b*=5
+print(b)
+b+=2
+print(b)
+b-=5
+print(b)
+b%=5
+print(b)
+b/=5
+print(b)
+b**=2
+print(b)
+print(a>b)
+print(a<b)
+print(a<=b)
+print(a>=b)
+print(a==b)
+print(a!=b)
+print(a<b or a==b)
+print(a>b and a==b)
+print(not a<b)

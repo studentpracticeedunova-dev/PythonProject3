@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7de2eff4-16bd-4312-93bc-abe3b43b9757" name="Changes" comment="new project file">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Airline Ticket Booking System.py" beforeDir="false" afterPath="$PROJECT_DIR$/Airline Ticket Booking System.py" afterDir="false" />
-    </list>
+    <list default="true" id="7de2eff4-16bd-4312-93bc-abe3b43b9757" name="Changes" comment="new project file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785218555416</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new project file">
+      <option name="closed" value="true" />
+      <created>1787283423258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1787283423258</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
